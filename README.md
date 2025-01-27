@@ -1,1 +1,1 @@
-# js_clock_project
+# digitalclock
